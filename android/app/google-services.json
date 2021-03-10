@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377284352824",
+    "project_id": "bookquotesapp",
+    "storage_bucket": "bookquotesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377284352824:android:cdc73309ee7f1d3a107fcd",
+        "android_client_info": {
+          "package_name": "com.mrsidrdx.followyourheart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377284352824-i2a27nmnatsd2v211hbplrdofeam71m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArBvX753Ox6GTtt6k6aA1zENdLaC9xVCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377284352824-i2a27nmnatsd2v211hbplrdofeam71m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -12,7 +12,7 @@ class GeneratedHappyThoughtsCreateHappyFeelingsWidget extends StatelessWidget {
       textAlign: TextAlign.center,
       style: TextStyle(
         height: 1.171875,
-        fontSize: 36.0,
+        fontSize: 24.0,
         fontFamily: 'Inter',
         fontWeight: FontWeight.w400,
         color: Color.fromARGB(255, 49, 178, 70),
